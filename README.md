@@ -110,7 +110,7 @@ C++ implementation of a rule-based state transition system using stacks, linked 
 
 C++ data-structure project focused on algorithmic problem solving and structured data management.
 
-🔗 [Split Set Structure](https://github.com/Bashar-ALZURAIQI/Split_Set_Structure-SSS)
+🔗 [Split Set Structure](https://github.com/Bashar-ALZURAIQI/split-set-structure)
 
 ---
 
