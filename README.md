@@ -16,7 +16,7 @@ An AI-powered smart recycling prototype that combines **computer vision, YOLO-ba
 
 The project aims to detect recyclable waste and automatically route it to the appropriate recycling path.
 
-🔗 [View Smart Recycle AI-Hub](https://github.com/Bashar-ALZURAIQI/Smart_Recycle_AI-Hub)
+🔗 [View Smart Recycle AI-Hub](https://github.com/Bashar-ALZURAIQI/smart-recycle-ai-hub)
 
 ---
 
@@ -78,7 +78,7 @@ The platform supports authentication, student profiles, organization roles, memb
 
 AI-powered waste detection and robotic sorting prototype using Python, YOLO, OpenCV, Arduino, and robotics.
 
-🔗 [Smart Recycle AI-Hub](https://github.com/Bashar-ALZURAIQI/Smart_Recycle_AI-Hub)
+🔗 [Smart Recycle AI-Hub](https://github.com/Bashar-ALZURAIQI/smart-recycle-ai-hub)
 
 ---
 
