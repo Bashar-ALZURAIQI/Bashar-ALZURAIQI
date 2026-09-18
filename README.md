@@ -26,7 +26,7 @@ A multilingual web and management platform built with **React, TypeScript, Vite,
 
 The platform supports authentication, student profiles, organization roles, membership workflows, content management, notifications, and multilingual access.
 
-🔗 [View Ümmet Gençleri Web](https://github.com/Bashar-ALZURAIQI/ummet_gencleri_web)
+🔗 [View Ümmet Gençleri Web](https://github.com/Bashar-ALZURAIQI/ummet-gencleri-web)
 
 ---
 
@@ -86,7 +86,7 @@ AI-powered waste detection and robotic sorting prototype using Python, YOLO, Ope
 
 Multilingual student organization and management platform using React, TypeScript, Supabase, authentication, and role-based workflows.
 
-🔗 [Ümmet Gençleri Web](https://github.com/Bashar-ALZURAIQI/ummet_gencleri_web)
+🔗 [Ümmet Gençleri Web](https://github.com/Bashar-ALZURAIQI/ummet-gencleri-web)
 
 ---
 
