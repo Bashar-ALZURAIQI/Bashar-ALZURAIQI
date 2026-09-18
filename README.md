@@ -94,7 +94,7 @@ Multilingual student organization and management platform using React, TypeScrip
 
 Educational and resource platform for engineering students with a PHP/MySQL backend and HTML, CSS, and JavaScript frontend.
 
-🔗 [Engineering Education Platform](https://github.com/Bashar-ALZURAIQI/Muhendislik_Egitim_Platformu)
+🔗 [Engineering Education Platform](https://github.com/Bashar-ALZURAIQI/engineering-education-platform)
 
 ---
 
